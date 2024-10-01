@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &__menu{
+        font-size: 20px;
+    }
+}
+.shoppingCartIcon{
+    font-size: 30px;
+    margin-right: 20px;
+}
